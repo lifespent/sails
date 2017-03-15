@@ -28,7 +28,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "anchor": "github:lifespent/sails#hastings-fix",
+    "anchor": "github:lifespent/anchor#hastings-fix",
     "async": "1.5.0",
     "captains-log": "1.0.0",
     "chalk": "1.1.3",
